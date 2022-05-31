@@ -1,0 +1,50 @@
+a {
+ text-decoration: none;
+  color: blue;
+ }
+.column {
+	  float: left;
+	  width: 30%;
+	  padding: 5px;
+	}
+	img {
+	  width: 100%;
+	}	
+ body {
+   font-family: 'Changa One', sans-serif;
+   background-color: lightblue;
+ }
+ #wrapper {
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0 5%;
+}
+h1  {
+ font-family: 'Changa One', sans-serif;
+ margin: 10px 0;
+ font-size: 1.75em;
+ font-weight: normal;
+ line-height: 0.9;
+ text-align: left;
+ color: black;
+}
+ h2  {
+ font-family: 'Changa One', sans-serif;
+ margin: 10px 0;
+ font-size: 1.75em;
+ font-weight: normal;
+ line-height: 0.9;
+ text-align: left;
+ color: Black;
+} 
+h3 {
+ font-family: 'Changa One', sans-serif;
+ margin: 10px 0;
+ font-size: 1.75em;
+ font-weight: normal;
+ line-height: 0.9;
+ text-align: left;
+ color: black;
+}
+
+
